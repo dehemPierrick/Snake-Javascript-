@@ -1,0 +1,27 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    /* structure */
+    margin: 0 auto;
+    padding: 10px;
+    width: 80%;
+    background-color: #3E763E;
+}
+
+h1{
+    color:#052F05;
+    text-align:center;
+    font-size: 30px;
+
+}
+
+#canvasSnake{
+    display:block;
+    margin:0 auto;
+    border:10px solid darkolivegreen;
+    background-color: #d2d2d2;
+}
